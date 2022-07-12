@@ -1,0 +1,230 @@
+
+entity.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_demon_idle_anim
+  rotate: false
+  xy: 2, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 1
+big_demon_idle_anim
+  rotate: false
+  xy: 36, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 2
+big_demon_idle_anim
+  rotate: false
+  xy: 70, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 3
+big_demon_idle_anim
+  rotate: false
+  xy: 104, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 4
+big_zombie_idle_anim
+  rotate: false
+  xy: 138, 26
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 1
+big_zombie_idle_anim
+  rotate: false
+  xy: 172, 26
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 2
+big_zombie_idle_anim
+  rotate: false
+  xy: 206, 26
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 3
+big_zombie_idle_anim
+  rotate: false
+  xy: 240, 26
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 4
+chort_idle_anim
+  rotate: false
+  xy: 274, 36
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: 1
+chort_idle_anim
+  rotate: false
+  xy: 292, 36
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: 2
+chort_idle_anim
+  rotate: false
+  xy: 310, 36
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: 3
+chort_idle_anim
+  rotate: false
+  xy: 328, 36
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: 4
+knight_m_idle_down
+  rotate: false
+  xy: 2, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 1
+knight_m_idle_down
+  rotate: false
+  xy: 346, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 2
+knight_m_idle_down
+  rotate: false
+  xy: 20, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 3
+knight_m_idle_down
+  rotate: false
+  xy: 364, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 4
+knight_m_idle_left
+  rotate: false
+  xy: 38, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 1
+knight_m_idle_left
+  rotate: false
+  xy: 382, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 2
+knight_m_idle_left
+  rotate: false
+  xy: 56, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 3
+knight_m_idle_left
+  rotate: false
+  xy: 400, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 4
+knight_m_idle_right
+  rotate: false
+  xy: 74, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 1
+knight_m_idle_right
+  rotate: false
+  xy: 418, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 2
+knight_m_idle_right
+  rotate: false
+  xy: 92, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 3
+knight_m_idle_right
+  rotate: false
+  xy: 436, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 4
+knight_m_idle_up
+  rotate: false
+  xy: 110, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 1
+knight_m_idle_up
+  rotate: false
+  xy: 454, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 2
+knight_m_idle_up
+  rotate: false
+  xy: 472, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 3
+knight_m_idle_up
+  rotate: false
+  xy: 490, 40
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: 4
+swampy_idle_anim
+  rotate: false
+  xy: 274, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+swampy_idle_anim
+  rotate: false
+  xy: 292, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+swampy_idle_anim
+  rotate: false
+  xy: 310, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+swampy_idle_anim
+  rotate: false
+  xy: 328, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
